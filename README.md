@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hi I’m Mohammed Hafiz 👋
+- ✨ I’m interested in Programming 
+- 🌱 I’m currently learning Flutter
+- 📫 How to reach me: Linkedin
 <!--
 **MohammedHafiz2710/MohammedHafiz2710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
