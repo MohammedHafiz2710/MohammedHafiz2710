@@ -61,10 +61,3 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohammedHafiz2710/MohammedHafiz2710/output/pacman-contribution-graph-dark.svg">
-  <img src="https://raw.githubusercontent.com/MohammedHafiz2710/MohammedHafiz2710/output/pacman-contribution-graph.svg" alt="pacman contribution graph">
-</picture>
-
-
-###
